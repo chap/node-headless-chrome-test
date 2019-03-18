@@ -10,7 +10,7 @@
     "test": {
       "buildpacks": [
         { "url": "heroku/nodejs" },
-        { "url": "heroku/heroku-buildpack-xvfb-google-chrome" }
+        { "url": "heroku/xvfb-google-chrome" }
       ]
     }
   }
